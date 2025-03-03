@@ -1,0 +1,11 @@
++====================+===================+===================+
+| Launch Setup Clock | Launch Hold Clock | Pin               |
++====================+===================+===================+
+| sys_clk_pin        | sys_clk_pin       | Fetch/Q_reg[6]/D  |
+| sys_clk_pin        | sys_clk_pin       | Fetch/Q_reg[5]/D  |
+| sys_clk_pin        | sys_clk_pin       | Fetch/Q_reg[3]/D  |
+| sys_clk_pin        | sys_clk_pin       | Fetch/Q_reg[8]/D  |
+| sys_clk_pin        | sys_clk_pin       | Fetch/Q_reg[4]/D  |
+| sys_clk_pin        | sys_clk_pin       | Fetch/Q_reg[11]/D |
+| sys_clk_pin        | sys_clk_pin       | Fetch/Q_reg[9]/D  |
++--------------------+-------------------+-------------------+
